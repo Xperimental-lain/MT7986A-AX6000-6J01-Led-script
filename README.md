@@ -11,8 +11,8 @@ vi /root/led_internet.sh
 #!/bin/sh
 
 # LED names
-GREEN_LED="green:status-0"
-RED_LED="red:status-0"
+GREEN_LED="green:status"
+RED_LED="red:status"
 
 # Ping targets
 PING1="8.8.8.8"
